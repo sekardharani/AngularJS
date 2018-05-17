@@ -10,3 +10,16 @@
  * Routing
  * Services
  * Testing
+
+## About AngularJS
+
+ * Client side Javascript library
+ * It support MVC
+ * Power of data binding
+ * Support to create a SPA pages
+ * Testing
+
+## Environment setup
+ * Any Code Editor ( Am using VScode )
+ * Server
+ * Node, NPM and Bower 
