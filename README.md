@@ -1,6 +1,4 @@
-#Section 1
-
-##Course Content
+## Course Content - Section 1
 
  * Introduction to AngularJS
  * Environment setup
@@ -11,7 +9,7 @@
  * Services
  * Testing
 
-## About AngularJS
+## About AngularJS - Section 2
 
  * Client side Javascript library
  * It support MVC
@@ -19,7 +17,8 @@
  * Support to create a SPA pages
  * Testing
 
-## Environment setup
+## Environment setup - Section 3
+
  * Any Code Editor ( Am using VScode )
  * Server
  * Node, NPM and Bower 
